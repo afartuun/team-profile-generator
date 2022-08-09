@@ -1,0 +1,23 @@
+* {
+   margin: 0%;
+   padding: 0%;
+   background-color: beige;
+
+}
+#title {
+    /* display: flex;
+    justify-content: center; */
+    color: rgb(110, 103, 86);
+    font-weight: bold;
+
+}
+.container {
+    border: black solid;
+
+}
+.row {
+    border: black solid;
+}
+ h5 {
+     color: rgb(110, 103, 86)
+ }
